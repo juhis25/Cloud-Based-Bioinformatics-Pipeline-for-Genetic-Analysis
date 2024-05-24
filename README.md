@@ -34,10 +34,13 @@ This project demonstrates the creation of a scalable, cloud-based bioinformatics
 #### Python Packages
 ```bash
 pip install pandas scikit-learn boto3
+'''
+
 
 #### R Packages
 '''r
 install.packages("DESeq2")
+'''
 
 Other Tools
 
